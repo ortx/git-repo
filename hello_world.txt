@@ -1,6 +1,2 @@
-print ("Hello world");
-print ("Hello everybody");
-print ("Hello git");
-print ("Hello web");
-print ("Hello local");
-print "Hello web 2"
+print ("Hello world")
+print ("Hello everybody")
